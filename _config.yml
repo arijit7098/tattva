@@ -1,0 +1,3 @@
+name: Arijit Das
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
